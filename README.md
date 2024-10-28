@@ -1,2 +1,6 @@
 # Simulasi-NTP-server-dan-Client
 Tugas 5 Kelommpok
+T1 = Oct 28, 2024 06:57:46.234152 UTC
+T2 = Oct 28, 2024 06:57:46.267953395 UTC
+T3 = Oct 28, 2024 06:57:46.268055915 UTC
+T4 = Oct 28, 2024 06:57:46.2339346 UTC
